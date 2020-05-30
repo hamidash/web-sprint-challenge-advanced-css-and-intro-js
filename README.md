@@ -23,10 +23,20 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe preprocessing to someone new to CSS?
+   Preprocessing is programmatic way to write CSS with Less so that we can reduce the effort of a developer and match HTML structure writing within a Less file. It is also pwered by Node.js underhood, which provides its similarity to the Jvascript code declaring  mixins or variables
+
 2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+    Nesting has been very helpful, since it helps to modify the HTML accordingly section by section according to breakpoints as well.
+    Parametric mixins, can become confusing, escpecially when we are using many variables as parameters that link into other parameters
+
 3. How would you explain the concept of a variable to someone new to programming?
+    Variable is a simple way to store data in a computer's memory, so that computer remembers a given input
+
 4. What is the purpose of using functions in code?
+    Functions help us to compute a specific purpose or to automate a certain function and reuse it in multiple other places
+
 5. What is JSON data?
+    JSON is a format to exchange data between computers/browsers. Just like a JS objects, it is based on key value pairing.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
